@@ -1,6 +1,6 @@
 # AI-Driven Claims Fraud Detection System
 
-A machine learning-based system for detecting potential insurance claim fraud using natural language processing and traditional ML techniques. This project demonstrates the practical application of AI in insurance fraud detection while maintaining simplicity and explainability.
+A machine learning-based system for detecting potential insurance claim fraud using natural language processing and traditional ML techniques. The purpose of this project is to demonstrate the practical application of AI in insurance fraud detection while maintaining simplicity and explainability.
 
 ## Project Overview
 
